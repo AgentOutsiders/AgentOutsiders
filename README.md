@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+<a href="https://discord.com/users/724508210500730922">
+  <img height=200 align="center" src="https://discord-activity-card.vercel.app/api/status/724508210500730922?profile=true&small_image=true&name_type=display" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AgentOutsiders" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentOutsiders" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgentOutsiders" />
+</a>
+
+
+
 <!--
 **AgentOutsiders/AgentOutsiders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
