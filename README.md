@@ -12,11 +12,11 @@ I'm Alexis Danrée, an 18-year-old student at Illkirch IUT currently in first ye
 </a>
 
 <a href="https://github.com/AgentOutsiders">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=AgentOutsiders&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
+  <img height=200 src="https://github-stats-extended.vercel.app/api?username=AgentOutsiders&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
 </a>
 
 <a href="https://wakatime.com/@AgentOutsiders">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=AgentOutsiders&langs_count=10&theme=dark&layout=compact&hide_border=true&cache_seconds=21601" />
+  <img height=200 src="https://github-stats-extended.vercel.app/api/wakatime?username=AgentOutsiders&langs_count=10&theme=dark&layout=compact&hide_border=true&cache_seconds=21601" />
 </a>
 
 ## I'm currently learning :
