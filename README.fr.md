@@ -27,7 +27,7 @@ Je suis Alexis Danrée, un étudiant de 18 ans à l'IUT d'Illkirch, actuellement
 </a>
 
 ## J'apprends actuellement :
-<img src="https://skillicons.dev/icons?i=rust,java," alt="Rust, Java" />
+<img src="https://skillicons.dev/icons?i=rust,java" alt="Rust, Java" />
 
 ## Je suis familier avec :
 <img src="https://skillicons.dev/icons?i=python,cs,js,godot,c" alt="Python, C#, JavaScript, Godot logos, C logos" /> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly logo" width="48" height="48" />
