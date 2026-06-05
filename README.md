@@ -22,7 +22,7 @@ I'm Alexis Danrée, an 18-year-old student at Illkirch IUT currently in first ye
 </a>
 
 ## I'm currently learning :
-<img src="https://skillicons.dev/icons?i=rust,java,c" alt="Rust, Java" />
+<img src="https://skillicons.dev/icons?i=rust,java," alt="Rust, Java" />
 
 ## I'm familiar with :
 <img src="https://skillicons.dev/icons?i=python,cs,js,godot,c" alt="Python, C#, JavaScript, Godot logos, C logos" /> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly logo" width="48" height="48" />
