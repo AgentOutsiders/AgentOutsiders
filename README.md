@@ -31,6 +31,15 @@ I'm Alexis Danrée, an 18-year-old student at Illkirch IUT currently in first ye
 ## I'm familiar with :
 <img src="https://skillicons.dev/icons?i=python,cs,js,godot,c" alt="Python, C#, JavaScript, Godot logos, C logos" /> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly logo" width="48" height="48" />
 
+## 🚀 My Projects
+
+Here are some of the projects I've worked on:
+
+* 🚢 **[CAN - Boat Booking System](https://github.com/AgentOutsiders/maritime-booking-system)**: A 1st-year school project built by a team of two. It is a boat booking system featuring a **C#** console application and a responsive website (**HTML/CSS/JS**) to display boarding passes and invoices.
+* 🎯 **[MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/mips32-battleship-simulation)**: An automated simulation of the classic Battleship game written entirely in **MIPS32 Assembly**. It features dynamic grid generation and a recursive hunting algorithm.
+* 🧹 **[Rustidy](https://github.com/AgentOutsiders/Rustidy)**: A fast tool built with **Rust** to automatically organize messy directories by moving files into subfolders based on their file extensions.
+* 🏰 **[Tower-Defense](https://github.com/AgentOutsiders/tower-defense)** *(Work In Progress 🚧)*: A Tower Defense game project built using **Godot Engine** and **C#**.
+
 ## To contact me :
 - You can click on my Discord card above and send me a message.
 
