@@ -2,6 +2,7 @@
   <a href="README.fr.md"><img src="https://flagcdn.com/w40/fr.png" width="40" height="30" alt="Français" title="Passer en français" /></a>
   <a href="README.md"><img src="https://flagcdn.com/w40/gb.png" width="40" height="30" alt="English" title="Switch to English" /></a>
 </div>
+
 ## Hi
 I'm Alexis Danrée, an 18-year-old student at Illkirch IUT currently in first year of computer science.
 
