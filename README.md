@@ -3,48 +3,84 @@
   <a href="README.md"><img src="https://flagcdn.com/w40/gb.png" width="40" height="30" alt="English" title="Switch to English" /></a>
 </div>
 
-## Hi
-I'm Alexis Danrée, an 18-year-old student at Illkirch IUT currently in first year of computer science.
-
-## According to Discord I'm currently doing :
-<a href="https://discord.com/users/724508210500730922">
-  <img height=200 align="center" src="https://discord-activity-card.vercel.app/api/status/724508210500730922?profile=true&small_image=true&name_type=display" />
-</a>
-
-## Here are some stats about my Github and coding activity :
-<a href="https://github.com/AgentOutsiders">
-  <img height=400 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=AgentOutsiders&layout=pie&langs_count=20&theme=dark&hide_border=true&cache_seconds=21601" />
-</a>
+<div align="center">
+        <img src="./assets/en/TextBoxPresentation.png" alt="Dialogue Box">
+</div>
 
 <br>
 
-<a href="https://github.com/AgentOutsiders">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=AgentOutsiders&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=21601" />
-</a>
+## <img src="./assets/common/MagicIcon.png" width="35" align="center"> Skills
+* <img src="https://skillicons.dev/icons?i=c,rust,cs,java,python,js,godot" width="250" alt="Skills" />
+* Familiar with low-level concepts, systems programming, Object oriented development and game development.
 
-<a href="https://wakatime.com/@AgentOutsiders">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=AgentOutsiders&langs_count=10&theme=dark&layout=compact&hide_border=true&cache_seconds=21601" />
-</a>
+<br>
 
-## I'm currently learning :
-<img src="https://skillicons.dev/icons?i=rust,java" alt="Rust, Java" />
+## <img src="./assets/common/ActIcon.webp" width="35" align="center"> Projects
+<table border="1" bordercolor="#ffffff" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
 
-## I'm familiar with :
-<img src="https://skillicons.dev/icons?i=python,cs,js,godot,c" alt="Python, C#, JavaScript, Godot logos, C logos" /> <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly logo" width="48" height="48" />
+**<img src="./assets/common/Bomb.png" width="20" align="center"> MIPS32 Battleship Simulation**
+* Automated simulation of Battleship written entirely in MIPS32 Assembly.
+* Features dynamic grid generation and a recursive hunting algorithm.
 
-## 🚀 My Projects
+</td>
+<td width="50%" valign="top">
 
-Here are some of the projects I've worked on:
+**<img src="./assets/common/SwatchlingCleaning.webp" width="35" align="center"> Rustidy**
+* A fast command-line tool built with Rust.
+* Automatically organizes messy directories by moving files based on their extensions.
 
-* 🚢 **[CAN - Boat Booking System](https://github.com/AgentOutsiders/maritime-booking-system)**: A 1st-year school project built by a team of two. It is a boat booking system featuring a **C#** console application and a responsive website (**HTML/CSS/JS**) to display boarding passes and invoices.
-* 🎯 **[MIPS32 Battleship Simulation](https://github.com/AgentOutsiders/mips32-battleship-simulation)**: An automated simulation of the classic Battleship game written entirely in **MIPS32 Assembly**. It features dynamic grid generation and a recursive hunting algorithm.
-* 🧹 **[Rustidy](https://github.com/AgentOutsiders/Rustidy)**: A fast tool built with **Rust** to automatically organize messy directories by moving files into subfolders based on their file extensions.
-* 🏰 **[Tower-Defense](https://github.com/AgentOutsiders/tower-defense)** *(Work In Progress 🚧)*: A Tower Defense game project built using **Godot Engine** and **C#**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## To contact me :
-- You can click on my Discord card above and send me a message.
+**<img src="./assets/common/CardCastle.webp" width="35" align="center"> Tower-Defense** `WIP 🚧`
+* A Tower Defense game project built using Godot Engine and C#.
+* Currently implementing core gameplay mechanics and pathfinding.
+<img src="./assets/en/TextBoxSomeDay.png" align="center">
 
-## About this README :
-For this readme, I used :
-- [Discord Activity Card](https://github.com/AdityaLF/discord-activity-card)
-- [Github Stats Extended](https://github.com/stats-organization/github-stats-extended)
+</td>
+<td width="50%" valign="top">
+
+**<img src="./assets/common/RiverPerson.gif" width="35" align="center"> CAN - Boat Booking System**
+* A 1st-year school project built by a team of two.
+* Features a C# console application paired with a responsive HTML/CSS/JS website for boarding passes.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## <img src="./assets/common/Soul.webp" width="20" align="center"> Hobbies
+* **PassportDex:** [My PassportDex Profile](https://passportdex.com/agentoutsiders)
+
+<br>
+
+## <img src="./assets/common/Phone.jpg" width="35" align="center"> Contact
+* **Discord:** Click on the Discord card below to send a message.
+
+<br>
+
+## Stats <img src="./assets/common/LancerDoingLancerThings.webp" width="200" align="center">
+<div align="center">
+  <a href="https://discord.com/users/724508210500730922">
+    <img height="195" src="https://discord-activity-card.vercel.app/api/status/724508210500730922?profile=true&small_image=true&name_type=display&bg_color=000000&text_color=ffffff" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AgentOutsiders">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=AgentOutsiders&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/AgentOutsiders">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentOutsiders&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&langs_count=6" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@AgentOutsiders">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgentOutsiders&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" />
+  </a>
+</div>
