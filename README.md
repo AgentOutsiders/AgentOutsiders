@@ -71,16 +71,10 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AgentOutsiders">
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=AgentOutsiders&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AgentOutsiders&theme=dark"/>
   </a>
-
-  <br><br>
-
+  <br>
   <a href="https://github.com/AgentOutsiders">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentOutsiders&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false&langs_count=6" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wakatime.com/@AgentOutsiders">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AgentOutsiders&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgentOutsiders&theme=dark"/>
   </a>
 </div>
