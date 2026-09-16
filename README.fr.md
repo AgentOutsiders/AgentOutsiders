@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**<img src="./assets/common/Bomb.png" width="20" align="center"> MIPS32 Battleship Simulation**
+**<img src="./assets/common/Bomb.gif" width="20" align="center"> MIPS32 Battleship Simulation**
 * Simulation automatisée de Bataille Navale programmée entièrement en Assembleur MIPS32.
 * Génère une grille dynamiquement et utilise un algorithme de ciblage récursif.
 
@@ -36,9 +36,9 @@
 <tr>
 <td width="50%" valign="top">
 
-**<img src="./assets/common/CardCastle.webp" width="35" align="center"> Tower-Defense** `En cours 🚧`
+**<img src="./assets/common/CardCastle.gif" width="35" align="center"> Tower-Defense** `En cours 🚧`
 * Un projet de jeu de type Tower Defense développé avec Godot Engine et C#.
-* Intégration en cours des mécaniques principales de jeu et du pathfinding.
+* Intégration en cours des mécaniques principales de jeu.
 <img src="./assets/fr/TextBoxSomeDay.png" align="center">
 
 </td>
@@ -47,6 +47,22 @@
 **<img src="./assets/common/RiverPerson.gif" width="35" align="center"> CAN - Boat Booking System**
 * Projet scolaire de première année réalisé en binôme.
 * Comprend une application console en C# et un site web interactif en HTML/CSS/JS pour générer les cartes d'embarquement.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**<img src="./assets/common/Pink.webp" width="35" align="center"> AnimeSama - AniList**
+* Extension web Open Source (Firefox/Chrome) synchronisant la progression Anime-Sama avec AniList.
+* Développée avec les standards WebExtension, incluant une authentification OAuth2 sécurisée.
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="./assets/common/Card.gif" width="35" align="center"> Inscryption Clone**
+* Application jouable en console (Java) qui recrée fidèlement les mécaniques du jeu de cartes Inscryption.
+* Projet universitaire en binôme axé sur la conception orientée objet et les tests unitaires.
 
 </td>
 </tr>
